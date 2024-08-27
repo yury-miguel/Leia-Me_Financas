@@ -10,7 +10,7 @@ Permite que você acompanhe suas receitas, despesas, metas e portfólios finance
 
 - **Controle de Receitas e Despesas:** Registre e gerencie suas receitas e despesas, com categorização e controle de status.
 - **Metas Financeiras:** Defina e acompanhe suas metas financeiras para um melhor planejamento.
-- **Portfólios:** Monitore seus investimentos, projeots e clientes com detalhes.
+- **Portfólios:** Monitore seus investimentos, projetos e clientes com detalhes.
 - **Multiusuário:** Suporte para múltiplos usuários com controle individualizado.
 - **Relatórios e Análises:** Visualize relatórios e análises detalhadas sobre suas finanças pessoais.
 
