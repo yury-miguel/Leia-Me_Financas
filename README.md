@@ -16,15 +16,13 @@ Permite que você acompanhe suas receitas, despesas, metas e portfólios finance
 
 ## 📋 Funcionalidades
 
-### Cadastro de Receitas
+### Movimentações Financeiras
 
 - Adicione novas receitas, defina categorias e registre o valor e a data.
 - Associe receitas a categorias existentes ou crie novas categorias conforme necessário.
-
-### Cadastro de Despesas
-
 - Registre suas despesas, categorizando cada gasto e definindo seu status.
 - Monitore suas despesas com detalhes e visualize seu impacto no saldo total.
+- Visualize o fluxo financeiro com opção de filtrar lançamentos.
 
 ### Metas Financeiras
 
@@ -36,6 +34,11 @@ Permite que você acompanhe suas receitas, despesas, metas e portfólios finance
 - Adicione e gerencie portfólios de investimentos.
 - Monitore valores gastos e retornos para obter uma visão clara do desempenho dos seus investimentos.
 
+### Relatórios
+
+- Obtenha relatórios em world
+- Visualize e tire conclusões sobre os dados nos painéis gráficos
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **Backend:** Django
@@ -43,6 +46,8 @@ Permite que você acompanhe suas receitas, despesas, metas e portfólios finance
 - **Frontend:** HTML, CSS, JavaScript
 
 ## 📦 Breve Visualização
+ - Em breve terá adição de acompanhamento de noticías em tempo real!!
+
 
 ![Captura de Tela (25)](https://github.com/user-attachments/assets/94470f29-141d-41e2-b41d-2bd90f6c8151)
 ![Captura de Tela (29)](https://github.com/user-attachments/assets/ed0db2b6-a3de-49ca-bac5-a510d30d1846)
