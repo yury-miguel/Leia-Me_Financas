@@ -63,4 +63,4 @@ Permite que você acompanhe suas receitas, despesas, metas e portfólios finance
 Para mais informações ou perguntas, entre em contato:
 
 - **Email:** yurymiguelc1@gmail.com
-- **Linkedin:** [Seu Perfil Linkedin]([https://github.com/SeuUsuario](https://www.linkedin.com/in/yury-miguel-827478315/))
+- **Linkedin:** https://www.linkedin.com/in/yury-miguel-827478315/
